@@ -1,5 +1,9 @@
 # Build_It_Bigger_Nanodegree
 
+Your project will be evaluated by a Udacity Code Reviewer according to this rubric : 
+https://review.udacity.com/#!/rubrics/61/view
+
+
 Project Overview
 
 In this project, you will create an app with multiple flavors that uses multiple libraries and Google Cloud Endpoints. The finished app will consist of four modules:
